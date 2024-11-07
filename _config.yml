@@ -1,5 +1,17 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Happy Quant Fox
+description: Happy Quant Fox Personal Portfolio.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+exclude:
+- README.md
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
